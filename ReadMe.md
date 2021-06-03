@@ -44,10 +44,12 @@ Once your repository is set up, practice what you learned today to create a port
 
 The following goals are designed to stretch your knowledge and may require additional research beyond what was learned in class today.
 
-- [ ] Make your webpage work at different browser widths, including mobile
+- [x] Make your webpage work at different browser widths, including mobile
 - [x] Add CSS animations
 - [ ] Design and execute your own wireframe for `About`, `Projects`, and `Contact` pages
-- [ ] Host your website on Netlify.com
+- [x] Host your website on Netlify.com
+  - [Netlify Site](https://kenny-miesner-portfolio-user-interface-ii.netlify.app/)
+  - [![Netlify Status](https://api.netlify.com/api/v1/badges/07855e8e-3ea3-40ee-8c33-f52d665ef2ad/deploy-status)](https://app.netlify.com/sites/kenny-miesner-portfolio-user-interface-ii/deploys)
 
 ## FAQs
 
@@ -69,5 +71,5 @@ The following goals are designed to stretch your knowledge and may require addit
 
 Follow these steps for completing your project.
 
-- [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [x] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 
